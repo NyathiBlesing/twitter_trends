@@ -9,5 +9,8 @@ The map displayed above depicts how the people in different states in USA feel a
 4. Coloring each state according to the aggregate sentiment of its tweets. Red means positive sentiment; blue means negative.
 
 Concepts Applied:
--dictionaries lists, and data abstraction techniques to create a modular program
+
+-Dictionaries
+-Lists
+-Data abstraction techniques to create a modular program
 
