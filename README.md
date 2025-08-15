@@ -10,6 +10,11 @@
 
 ### Concepts Applied:
 
-Dictionaries, lists and data abstraction techniques to create a modular program.
+Dictionaries
+
+lists
+
+data abstraction techniques to create a modular program.
+
 Programming language: Python
 
