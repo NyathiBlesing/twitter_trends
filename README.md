@@ -8,6 +8,8 @@
 3. Aggregating tweets by the state with the closest geographic center.
 4. Coloring each state according to the aggregate sentiment of its tweets. Red means positive sentiment; blue means negative.
 
-Concepts Applied: Dictionaries, lists and data abstraction techniques to create a modular program.
+### Concepts Applied:
+
+Dictionaries, lists and data abstraction techniques to create a modular program.
 Programming language: Python
 
