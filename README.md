@@ -16,5 +16,7 @@ lists
 
 data abstraction techniques to create a modular program.
 
-Programming language: Python
+### Programming language:
+
+Python
 
